@@ -3,7 +3,7 @@
 
 ## Create local repo and Initialize virtual environment
 
-In a bash/zsh terminal do the following:
+In a new bash/zsh terminal do the following:
 
 ```bash
 git clone https://github.com/langchain-ai/langchain-academy.git
@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Create `.env` files
 
-Create local `.env` for the relevant modules of this tutorial and launch jupyter notebook locally:
+Create local `.env` for the relevant modules of this tutorial and launch jupyter notebook locally. In a new bash/zsh terminal do the following:
 
 ```bash
 cd langchain-academy
@@ -39,7 +39,8 @@ jupyter notebook
 ```
 
 ## Launch langgraph for a given module 
-In a new terminal:
+
+In a new bash/zsh terminal do the following::
 ```bash
 cd langchain_academy
 source lc-academy-env/bin/activate
