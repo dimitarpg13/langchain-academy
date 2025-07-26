@@ -20,6 +20,7 @@ Create local `.env` for the relevant modules of this tutorial and launch jupyter
 
 ```bash
 cd langchain-academy
+source lc-academy-env/bin/activate
 export OPENAI_API_KEY=<your-OpenAI-dev-key>
 export ANTHROPIC_API_KEY=<your-Anthropic-dev-key>
 export LANGCHAIN_API_KEY=<your-LangChain-dev-key>
