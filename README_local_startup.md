@@ -1,7 +1,7 @@
 # Local startup instructions:
 
 
-## create local repo and initialize virtual environment
+## Create local repo and Initialize virtual environment
 
 In a bash/zsh terminal do the following:
 
