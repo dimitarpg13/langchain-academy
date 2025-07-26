@@ -1,7 +1,7 @@
 # Local startup instructions:
 
 
-## repo cloning and virtual environment initialization
+## create local repo and initialize virtual environment
 
 In a bash/zsh terminal do the following:
 
@@ -14,7 +14,7 @@ source lc-academy-env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Creating `.env` files
+## Create `.env` files
 
 Create local `.env` for the relevant modules of this tutorial and launch jupyter notebook locally:
 
